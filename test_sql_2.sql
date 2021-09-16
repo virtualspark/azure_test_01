@@ -1,1 +1,1 @@
-select * from sales_csv
+select * from sales_csv;
