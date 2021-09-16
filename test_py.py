@@ -1,1 +1,1 @@
-select * from sales_csv
+import pandas as pd
